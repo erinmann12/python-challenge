@@ -4,7 +4,7 @@ import os
 #import module for reading CSV files
 import csv
 
-csvpath = os.path.join('..', 'Resources', 'budget_data.csv')
+csvpath = os.path.join('..', 'PyPoll', 'Resources', 'budget_data.csv')
 
 #initialize variables
 total = 0
