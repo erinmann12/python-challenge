@@ -11,7 +11,16 @@ My Python script had to analyze and calculate: the total number of votes cast, a
 
 **Project Tasks**
 
+In step one, I was tasked with writing Python script to analyze a company's financial records. I started by reading in the provided CSV file and looping through the different rows to get the different values I needed. In some instances, further math and formatting was needed to get the desired results.
 
-I was tasked with writing Python script to analyze a company's financial records 
+![](https://github.com/erinmann12/python-challenge/blob/main/Images/pybanksample.PNG)
 
+In step two, I was tasked with writing Python script to help a small, rural town modernize its vote counting process. While looping through the provided CSV file, I had to determine if a candidate was already in the list and if not, adding the candidate to the list and increment the vote count accordingly. 
 
+![](https://github.com/erinmann12/python-challenge/blob/main/Images/pypollsample.PNG)
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+Erin Mann 
+
+erin.mann2019@gmail.com
